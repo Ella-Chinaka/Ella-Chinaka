@@ -1,8 +1,8 @@
 # Hi there, I'm Ella 👋✨
 
--💻 Full-Stack Developer (React, Laravel, JavaScript, HTML, CSS)
--📱 Flutter Developer in progress
--🚀 Currently building real-world projects & improving every day
+💻 Full-Stack Developer (React, Laravel, JavaScript, HTML, CSS)
+📱 Flutter Developer in progress
+🚀 Currently building real-world projects & improving every day
 ---
 
 ## 🌟 Tech Stack
