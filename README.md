@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Ella 👋✨
 
-<!--
-**Ella-Chinaka/Ella-Chinaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer (React, Laravel, JavaScript, HTML, CSS)
+📱 Flutter Developer in progress
+🚀 Currently building real-world projects & improving every day
+---
 
-Here are some ideas to get you started:
+## 🌟 Tech Stack
+- HTML, CSS, JavaScript
+- Java (Spring Boot)
+- Laravel
+- Dart (Flutter)
+- React.js
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Ella's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ella-Chinaka&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Top Projects
+- 🍽️ Online Meal Planner (React)
+- 📘 Books Manager (Laravel)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/ella-chinaka-4life
+- Email: ellachinaka16@gmail.com
+
+---
+
+✨ “Building today for the future”
